@@ -10,6 +10,10 @@ export default {
         'card-very-dark-blue': 'hsl(216, 50%, 16%)',
         'line-very-dark-blue': 'hsl(215, 32%, 27%)',
       },
+      backgroundImage: {
+        'ethereum-icon': 'url("../src/assets/images/icon-ethereum.svg")',
+        'clock-icon': 'url("../src/assets/images/icon-clock.svg")',
+      },
     },
   },
   plugins: [],
